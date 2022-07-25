@@ -3,7 +3,7 @@ Inspired by [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) 
 ## Difference
 * Pure urdf file
 * Color reflection  
-![image](https://user-images.githubusercontent.com/68213792/180215132-008cf195-fc48-4943-8203-af7aecdd7c0b.png)
+![image](https://user-images.githubusercontent.com/68213792/180804341-0097e49f-3c57-46f2-ace4-095952cc445c.png)
   
 If you urdf conversion in xacro, it can be used in unity, omniverse  
 ### Unity  
