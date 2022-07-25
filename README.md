@@ -5,7 +5,7 @@ Inspired by [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) 
 * Color reflection  
 ![image](https://user-images.githubusercontent.com/68213792/180804341-0097e49f-3c57-46f2-ace4-095952cc445c.png)
   
-If you urdf conversion in xacro, it can be used in unity, omniverse  
+It can be used in unity, omniverse  
 ### Unity  
 ![image](https://user-images.githubusercontent.com/68213792/180796529-3d922af0-85a8-4711-830b-10f04173fbff.png)
 ### Omniverse  
