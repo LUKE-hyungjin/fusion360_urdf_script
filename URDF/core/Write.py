@@ -8,7 +8,7 @@ Created on Sun May 12 20:46:26 2019
 import adsk, os
 import re
 from xml.etree.ElementTree import Element, SubElement
-from . import Link, Joint, launch_templates, Material
+from . import Link, Joint, Material
 from ..utils import utils
 
 def write_link_urdf(joints_dict, repo, links_xyz_dict, file_name, inertial_dict):
