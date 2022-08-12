@@ -19,14 +19,14 @@ Run the following command in your shell.
 ##### Windows (In PowerShell)
 
 ```powershell
-cd <path to fusion360_urdf_addin>
+cd <path to fusion360_urdf_script>
 Copy-Item ".\URDF\" -Destination "${env:APPDATA}\Autodesk\Autodesk Fusion 360\API\Scripts\" -Recurse
 ```
 
 ##### macOS (In bash or zsh)
 
 ```bash
-cd <path to fusion360_urdf_addin>
+cd <path to fusion360_urdf_scrpit>
 cp -r ./URDF "$HOME/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/"
 ```
 ## What is this script?
