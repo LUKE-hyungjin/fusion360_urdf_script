@@ -2,7 +2,7 @@
 Inspired by [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) and [dheena2k2/fusion2urdf-ros2](https://github.com/dheena2k2/fusion2urdf-ros2), this repertoire is ADDIN, who converts it into a pure Urdf file. Check out [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) for converting fusion360 model to robot description package of ROS1.
 ## Difference
 * Pure urdf file
-* Color reflection  
+* Color reflection [(link)](https://informluke.tistory.com/entry/URDF-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A7%80%EC%A0%95-%EC%83%89%EC%83%81-%EC%84%A4%EC%A0%95)  
 ![image](https://user-images.githubusercontent.com/68213792/180804341-0097e49f-3c57-46f2-ace4-095952cc445c.png)
   
 It can be used in unity, omniverse  
