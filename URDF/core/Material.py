@@ -1,7 +1,8 @@
 import adsk.core, adsk.fusion
 
 # Match color properties by id: names are localized (e.g. "색상" in Korean Fusion).
-COLOR_PROPERTY_IDS = ("opaque_albedo", "metal_f0", "generic_diffuse", "layered_diffuse", "transparent_color")
+COLOR_PROPERTY_IDS = ("opaque_albedo", "metal_f0", "generic_diffuse", "layered_diffuse", "transparent_color",
+                      "glazing_transmission_color")
 DEFAULT_MATERIAL = ("silver", "0.700 0.700 0.700 1.000")
 
 
