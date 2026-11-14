@@ -12,7 +12,6 @@ import os.path
 import re
 from xml.etree import ElementTree
 from xml.dom import minidom
-from distutils.dir_util import copy_tree
 import fileinput
 import sys
 
